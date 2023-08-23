@@ -129,6 +129,7 @@ meter {
     background: var(--very-dark-blue);
     border-radius: 9px;
     height: 21px;
+    width: auto;
 }
 meter::-webkit-meter-optimum-value {
     background: var(--background);
